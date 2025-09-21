@@ -1,0 +1,4 @@
+Machine learning is a subset of artificial intelligence that allows systems to learn from data.
+Common types of machine learning are supervised, unsupervised, and reinforcement learning.
+Python is widely used for machine learning with libraries like scikit-learn, TensorFlow, and PyTorch.
+Applications include image recognition, recommendation systems, natural language processing, and predictive analytics.
