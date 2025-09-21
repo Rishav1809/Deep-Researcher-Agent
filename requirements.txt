@@ -1,9 +1,16 @@
+# Core framework
 streamlit==1.30.0
+rich==13.5.2        # compatible with Streamlit <14
+
+# Transformers and embeddings
 sentence-transformers==2.2.2
-torch==2.5.1
-numpy==1.26.4
-huggingface-hub==1.27.0
-rich==14.1.0
+huggingface-hub==0.17.3
+
+# Machine learning and numerical libraries
+torch==2.2.0
+numpy==1.25.2
+
+# Markdown and text rendering dependencies
 markdown-it-py==4.0.0
 mdurl==0.1.2
 pygments==2.19.2
